@@ -18,8 +18,8 @@ The system determines the overall sentiment and the primay aspect based on the s
 Features 
 
 1)This project runs in the terminal because it is entirely CLI-based. There is no GUI utilised.    
-2)Sentiment detection, aspect detection, and simple negation handling are the primary features.
-3)it displays the score of both positive and negative matches, which facilitates comprehension of the decision-making process. 
+2)Sentiment detection, aspect detection, and simple negation handling are the primary features.   
+3)it displays the score of both positive and negative matches, which facilitates comprehension of the decision-making process.   
 4)It is simple to run on any system because it is lightweight and doesn't require any external libraries. 
 
 
@@ -31,11 +31,11 @@ Python is used in the project's implementation. There is no need for external li
 
 How to run
 
-1)First install python and then save feedback analyzer.py in your system
-2)Open terminal and run
-3)python feedback_analyzer.py
-4)Now you can enter feedback directly in the terminal.
-5)To quit the program, just type exit.
+1)First install python and then save feedback analyzer.py in your system  
+2)Open terminal and run   
+3)python feedback_analyzer.py   
+4)Now you can enter feedback directly in the terminal.   
+5)To quit the program, just type exit.   
 
 Example
 
