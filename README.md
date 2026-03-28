@@ -41,7 +41,7 @@ Example
 
 If you enter:
 The product is good but delivery was late  
-The output :
+The output :  
 Sentiment: Neutral     
 Aspect: delivery  
 Scores: {'positive': 1, 'negative': 1}
