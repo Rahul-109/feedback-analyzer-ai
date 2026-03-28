@@ -31,7 +31,7 @@ Python is used in the project's implementation. There is no need for external li
 
 How to run
 
-1)First install python and then save feedback analyzer.py in your system  
+1)First install python and then save feedback_analyzer.py in your system  
 2)Open terminal and run   
 3)python feedback_analyzer.py   
 4)Now you can enter feedback directly in the terminal.   
