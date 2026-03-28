@@ -15,9 +15,12 @@ The system determines the overall sentiment and the primay aspect based on the s
 
 Features 
 
-1)This project runs in the terminal because it is entirely CLI-based. There is no GUI utilised. 
+1)This project runs in the terminal because it is entirely CLI-based. There is no GUI utilised.    
+
 2)Sentiment detection, aspect detection, and simple negation handling are the primary features.
- 3)it displays the score of both positive and negative matches, which facilitates comprehension of the decision-making process. 
+
+3)it displays the score of both positive and negative matches, which facilitates comprehension of the decision-making process. 
+ 
 4)It is simple to run on any system because it is lightweight and doesn't require any external libraries. 
 
 
