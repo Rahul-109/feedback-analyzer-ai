@@ -40,8 +40,8 @@ How to run
 Example
 
 If you enter:
-The product is good but delivery was late
+The product is good but delivery was late  
 The output :
-Sentiment: Neutral  
+Sentiment: Neutral     
 Aspect: delivery  
 Scores: {'positive': 1, 'negative': 1}
