@@ -3,6 +3,7 @@ Introduction
 
 This project is a simple command line based application. It tries to analyze customer feedback and understand what the user has review about the product. The idea is not very complex but still useful. It takes a  input and then gives output in terms of sentiment and the main aspect related to that feedback.
  It checks whether the feedback is positive, negative, or neutral. It also tries to figure out if the feedback is about delivery, product, or service. Sometimes it works really well, sometimes the data is less but overall decent.
+ 
 
 
 How it works
@@ -13,14 +14,12 @@ Each word is then compared to various categories, such as aspect-related words, 
   There is a brief logic for dealing with negation. For instance, the system will interpret the input as negative rather than positive if it contains something like "not good." Although this negation is not very sophisticated, it enhances the system. 
 The system determines the overall sentiment and the primay aspect based on the scores.
 
+
 Features 
 
 1)This project runs in the terminal because it is entirely CLI-based. There is no GUI utilised.    
-
 2)Sentiment detection, aspect detection, and simple negation handling are the primary features.
-
 3)it displays the score of both positive and negative matches, which facilitates comprehension of the decision-making process. 
- 
 4)It is simple to run on any system because it is lightweight and doesn't require any external libraries. 
 
 
